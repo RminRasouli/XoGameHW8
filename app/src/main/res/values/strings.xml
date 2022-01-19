@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OX play</string>
+    <string name="player1_0">Player1 : 0</string>
+    <string name="player2_0">Player2 : 0</string>
+</resources>
